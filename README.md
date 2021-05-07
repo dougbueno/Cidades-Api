@@ -5,7 +5,7 @@
 * Windows
 * Git
 * Java 8
-* Postegres
+* Postgres
 * Eclipse
 
 ## DataBase
