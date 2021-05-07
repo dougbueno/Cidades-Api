@@ -2,7 +2,7 @@
 
 ## Requirimentos
 
-* Windowns
+* Windows
 * Git
 * Java 8
 * Postegres
